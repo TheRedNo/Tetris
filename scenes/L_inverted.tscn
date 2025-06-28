@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bhbllcwlndlfh"]
+
+[ext_resource type="Texture2D" uid="uid://dlaj4rl2miev4" path="res://assets/texture/LInverted.png" id="1_4f6fo"]
+
+[node name="L_Inverted" type="Sprite2D"]
+position = Vector2(72, 72)
+texture = ExtResource("1_4f6fo")
+offset = Vector2(36, 0)

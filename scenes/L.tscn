@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://b0ixmqs8tqgep"]
+
+[ext_resource type="Texture2D" uid="uid://cgc4ktl2tsaod" path="res://assets/texture/L.png" id="1_2kr8p"]
+
+[node name="L" type="Sprite2D"]
+position = Vector2(144, 72)
+texture = ExtResource("1_2kr8p")
+offset = Vector2(-36, 0)

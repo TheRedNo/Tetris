@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://ddwomua0ribwm"]
+
+[ext_resource type="Texture2D" uid="uid://1hge76yqv23i" path="res://assets/texture/1x4.png" id="1_qubjh"]
+
+[node name="1x4" type="Sprite2D"]
+position = Vector2(180, 36)
+rotation = -0.000223132
+texture = ExtResource("1_qubjh")

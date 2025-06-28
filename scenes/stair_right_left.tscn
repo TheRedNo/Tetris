@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://csq5u5v834by8"]
+
+[ext_resource type="Texture2D" uid="uid://br0rfpgi7vxgl" path="res://assets/texture/StairRightLeft.png" id="1_ww24f"]
+
+[node name="StairRightLeft" type="Sprite2D"]
+position = Vector2(72, 72)
+texture = ExtResource("1_ww24f")
+offset = Vector2(36, 0)
